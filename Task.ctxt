@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=priority\ complexity\ desc
+comment0.target=Task(int,\ int,\ java.lang.String)
+comment1.params=priority
+comment1.target=void\ setPriority(int)
+comment2.params=
+comment2.target=int\ getPriority()
+comment3.params=complexity
+comment3.target=void\ setComplexity(int)
+comment4.params=
+comment4.target=int\ getComplexity()
+comment5.params=
+comment5.target=java.lang.String\ getDesc()
+comment6.params=desc
+comment6.target=void\ setDesc(java.lang.String)
+comment7.params=other
+comment7.target=int\ compareTo(Task)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
